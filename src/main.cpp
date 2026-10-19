@@ -2,6 +2,9 @@
 
 int main()
 {
-    std::cout << "LogHunter v0.1" << '\n';
+    int log_amount = 5;
+ 
+
+    std::cout << "log_amount: " << log_amount;
     return 0;
 }
