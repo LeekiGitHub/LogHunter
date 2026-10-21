@@ -2,21 +2,21 @@
 
 int main()
 {
-    std::cout << "LOGHUNTER" << std::endl;
-    std::cout << "Security Log Analysis & Threat Detection" << std::endl;
-    std::cout << " " << std::endl;
-    std::cout << "Version 0.1.0" << std::endl;
-    std::cout << " " << std::endl;
-    std::cout << "MAIN MENU" << std::endl;
-    std::cout << "-------------------------------------------------------" << std::endl;
-    std::cout << " " << std::endl;
-    std::cout << "[1] Log Analysis" << std::endl;
-    std::cout << "[2] Security Events" << std::endl;
-    std::cout << "[3] Detection Rules" << std::endl;
-    std::cout << "[4] Alerts & Findings" << std::endl;
-    std::cout << "[5] Reports & Exports" << std::endl;
-    std::cout << "[6] Settings" << std::endl;
-    std::cout << " " << std::endl;
-    std::cout << "[0] Exit" << std::endl;
-    std::cout << "-------------------------------------------------------" << std::endl;
+    std::cout << "LOGHUNTER\n"
+    "Security Log Analysis & Threat Detection\n"
+    "\n"
+    "Version 0.1.0\n"
+    "\n"
+    "MAIN MENU\n"
+    "-------------------------------------------------------\n"
+    "\n"
+    "[1] Log Analysis\n"
+    "[2] Security Events\n"
+    "[3] Detection Rules\n"
+    "[4] Alerts & Findings\n"
+    "[5] Reports & Exports\n"
+    "[6] Settings\n"
+    "\n"
+    "[0] Exit\n"
+    "-------------------------------------------------------\n";
 }
