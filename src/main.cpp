@@ -11,12 +11,12 @@ int main()
     std::cout << "-------------------------------------------------------" << std::endl;
     std::cout << " " << std::endl;
     std::cout << "[1] Log Analysis" << std::endl;
-    std::cout << "[2] Log Analysis" << std::endl;
-    std::cout << "[3] Log Analysis" << std::endl;
-    std::cout << "[4] Log Analysis" << std::endl;
-    std::cout << "[5] Log Analysis" << std::endl;
-    std::cout << "[6] Log Analysis" << std::endl;
+    std::cout << "[2] Security Events" << std::endl;
+    std::cout << "[3] Detection Rules" << std::endl;
+    std::cout << "[4] Alerts & Findings" << std::endl;
+    std::cout << "[5] Reports & Exports" << std::endl;
+    std::cout << "[6] Settings" << std::endl;
     std::cout << " " << std::endl;
-    std::cout << "[0] Log Analysis" << std::endl;
+    std::cout << "[0] Exit" << std::endl;
     std::cout << "-------------------------------------------------------" << std::endl;
 }
