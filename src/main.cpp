@@ -19,4 +19,12 @@ int main()
     "\n"
     "[0] Exit\n"
     "-------------------------------------------------------\n";
+
+    std::cout << "Enter a number (0-6): ";
+
+    int selected_option { };
+    std::cin >> selected_option;
+
+    std::cout << "You selected option " << selected_option << "\n";
+
 }
