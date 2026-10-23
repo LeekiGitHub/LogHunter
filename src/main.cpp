@@ -55,6 +55,11 @@ int showMenue()
     }
 }
 
+void analyzeLogs()
+{
+    std::cout << "Starting log analysis...\n";
+}
+
 int main()
 {
     int selected_option {};
@@ -67,6 +72,7 @@ int main()
         {
             case 1:
                 std::cout << "Log Analysis selected\n";
+                analyzeLogs();
                 break;
 
             case 2:
