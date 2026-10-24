@@ -1,6 +1,9 @@
 #include <iostream>
 #include <limits>
 
+
+void analyzeLogs();
+
 int showMenue()
 {
     std::cout << "\nLOGHUNTER\n"
