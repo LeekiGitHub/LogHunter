@@ -76,7 +76,6 @@ int main()
             case 1:
                 std::cout << "Log Analysis selected\n";
                 analyzeLogs();
-                break;
 
             case 2:
                 std::cout << "Security Events selected\n";
